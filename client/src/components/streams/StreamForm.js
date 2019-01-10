@@ -12,7 +12,6 @@ class StreamForm extends Component {
                 </div>
             );
         }
-
     }
 
     renderInput = (formProps) => {
